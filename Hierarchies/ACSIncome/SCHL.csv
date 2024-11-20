@@ -1,0 +1,24 @@
+No schooling completed;Preschool;Primary School;Primary education;*
+Nursery school, preschool;Preschool;Primary School;Primary education;*
+Kindergarten;Kindergarten;Primary School;Primary education;*
+Grade 1;1st-4th;Primary School;Primary education;*
+Grade 2;1st-4th;Primary School;Primary education;*
+Grade 3;1st-4th;Primary School;Primary education;*
+Grade 4;1st-4th;Primary School;Primary education;*
+Grade 5;5th-6th;Primary School;Primary education;*
+Grade 6;5th-6th;Primary School;Primary education;*
+Grade 7;7th-8th;High School;Secondary education;*
+Grade 8;7th-8th;High School;Secondary education;*
+Grade 9;9th;High School;Secondary education;*
+Grade 10;10th;High School;Secondary education;*
+Grade 11;11th;High School;Secondary education;*
+12th grade - no diploma;12th;High School;Secondary education;*
+Regular high school diploma;HS-grad;High School;Secondary education;*
+GED or alternative credential;HS-grad;High School;Secondary education;*
+Some college, but less than 1 year;Some-college;Undergraduate;Higher education;*
+1 or more years of college credit, no degree;Some-college;Undergraduate;Higher education;*
+Associate's degree;Assoc;Professional Education;Higher education;*
+Bachelor's degree;Bachelors;Undergraduate;Higher education;*
+Master's degree;Masters;Graduate;Higher education;*
+Professional degree beyond a bachelor's degree;Prof-school;Professional Education;Higher education;*
+Doctorate degree;Doctorate;Graduate;Higher education;*

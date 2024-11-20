@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="arx:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="arx.jar">
+      <element id="module-output" name="arx" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/libarx-3.9.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
