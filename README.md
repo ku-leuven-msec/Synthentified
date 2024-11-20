@@ -1,4 +1,4 @@
-# TITLE
+# A Song of Privacy and Utility: A Comparative Evaluation of De-Identified and Synthetic Data
 This repository contains the results and the implementation of the de-identified and synthetic dataset comparison framework proposed in the paper "A Song of Privacy and Utility: A Comparative Evaluation of De-Identified and Synthetic Data".
 
 ## Abstract
