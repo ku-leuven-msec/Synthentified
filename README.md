@@ -8,7 +8,7 @@ On the other hand, Generative AI provides the capability to create synthetic dat
 
 Given the distinct nature of both strategies, there is an ongoing and unresolved debate about which yields the best data privacy protection and utility results.
 Resolving this debate requires a unified and scientific comparison framework that comprehensively examines the metrics of both approaches.
-To address this gap, we present (i)~a novel quantitative evaluation framework to facilitate privacy and utility comparisons between synthetic and de-identified datasets, and (ii)~the results of a comparative study of both approaches applied in two distinct use cases, one location optimization problem, and one predictive machine learning application.
+To address this gap, we present (i) a novel quantitative evaluation framework to facilitate privacy and utility comparisons between synthetic and de-identified datasets, and (ii) the results of a comparative study of both approaches applied in two distinct use cases, one location optimization problem, and one predictive machine learning application.
 
 Our study results indicate that de-identified datasets generally outperform synthetic data in privacy protection, while synthetic data achieves comparable utility to the de-identified data. 
 While synthetic data generation is a novel and promising approach to data protection, it has yet to surpass de-identified data in effectiveness.
