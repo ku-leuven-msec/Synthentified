@@ -2,19 +2,16 @@
 This repository contains the results and the implementation of the de-identified and synthetic dataset comparison framework proposed in the paper "A Song of Privacy and Utility: A Comparative Evaluation of De-Identified and Synthetic Data".
 
 ## Abstract
-Practitioners are faced with two different strategies to reduce privacy risks in privacy-preserving data publishing. 
-On the one hand, the tailored de-identification of datasets involves reducing the link to data subject identity and as such incurs less risk when sharing these de-identified datasets. 
-While this approach is widely used and legally endorsed by data privacy regulations, it requires significant human expertise and manual effort to define and generalize identifiable attributes. 
-On the other hand, the capabilities of Generative AI allow creating synthetic datasets that bear similarity to the original, but are in fact not representative of actual data subjects. 
-Generating synthetic datasets relies more on automation and computational power, though it still requires AI expertise to set up hyper-parameters and optimization methods.
+In privacy-preserving data publishing (PPDP), practitioners are faced with two different strategies to proactively reduce privacy risks before releasing datasets. 
+On the one hand, the strategy of tailored de-identification involves actively transforming the dataset to lessen the link to data subject identity. 
+On the other hand, Generative AI provides the capability to create synthetic datasets that bear similarity to the original, but in fact consist of records not representative of actual data subjects.
 
 Given the distinct nature of both strategies, there is an ongoing and unresolved debate about which yields the best data privacy protection and utility results.
 Resolving this debate requires a unified and scientific comparison framework that comprehensively examines the metrics of both approaches.
-To address this gap, we present (i) a novel quantitative evaluation framework to facilitate privacy and utility comparisons between synthetic and de-identified datasets, and (ii) the results of a comparative study of both approaches applied in two distinct use cases, using the *Patients* and *ACSIncome* datasets. 
+To address this gap, we present (i)~a novel quantitative evaluation framework to facilitate privacy and utility comparisons between synthetic and de-identified datasets, and (ii)~the results of a comparative study of both approaches applied in two distinct use cases, one location optimization problem, and one predictive machine learning application.
 
-Our study results indicate that de-identified datasets outperform synthetic data in privacy protection, while synthetic data achieves comparable utility to the de-identified data. 
-Thus, although synthetic data generation is a novel approach to data protection, it has yet to surpass de-identified data. 
-The targeted de-identification of datasets continues to prove effective and private.
+Our study results indicate that de-identified datasets generally outperform synthetic data in privacy protection, while synthetic data achieves comparable utility to the de-identified data. 
+While synthetic data generation is a novel and promising approach to data protection, it has yet to surpass de-identified data in effectiveness.
 
 ## Repository Content
 ### Datasets
