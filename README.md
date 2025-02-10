@@ -1,5 +1,5 @@
-# A Song of Privacy and Utility: A Comparative Evaluation of De-Identified and Synthetic Data
-This repository contains the results and the implementation of the de-identified and synthetic dataset comparison framework proposed in the paper "A Song of Privacy and Utility: A Comparative Evaluation of De-Identified and Synthetic Data".
+# A Comparative Evaluation of De-Identified and Synthetic Data
+This repository contains the results and the implementation of the de-identified and synthetic dataset comparison framework proposed in Chapter 6 of the PhD disertation titled "Advanced tactics for dataset anonymization" by Jenno Verdonck.
 
 ## Abstract
 In privacy-preserving data publishing (PPDP), practitioners are faced with two different strategies to proactively reduce privacy risks before releasing datasets. 
