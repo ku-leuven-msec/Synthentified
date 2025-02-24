@@ -25,7 +25,7 @@ The **intellij** folder contains an intellij project implementing de-identificat
 From this code a .jar file is constructed used in the generation of de-identified datasets.
 
 ### pycharm
-The **pycharm** folder contains all the python code which can be used to reproduce the results. This folder is structure as follows:
+The **pycharm** folder contains all the python code which can be used to reproduce the results. This folder is structured as follows:
 *	**dataset_preparation**: contains code to obtain the ACSIncome dataset and preprocess both the ACSIncome and Patients datasets (results in ACSIncome.csv and Patients_cleaned.csv)
 *	**privacy**: contains the privacy metric implementations and additional helper functions to perform the metric calculations
 *	**utility**: contains the use-case specific and statistical utility metric implementations
